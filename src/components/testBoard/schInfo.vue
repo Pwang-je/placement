@@ -58,7 +58,7 @@ export default {
     },
 
     methods: {
-
+        // https://raw.githubusercontent.com/Pwang-je/placement/master/admRatio.json
     }
 
 }
