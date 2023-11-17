@@ -1,16 +1,20 @@
 <template>
 
-  <DataGrid />
+  <!-- <DataGrid /> -->
+  <vueGrid />
+
 
 </template>
 
 <script>
-import DataGrid from './components/testBoard/selectSch.vue'
+// import DataGrid from './components/testBoard/selectSch.vue'
+import vueGrid from './components/testBoard/schInfo.vue'
 
 export default {
   name: 'App',
   components: {
-    DataGrid
+    // DataGrid
+    vueGrid
   }
 }
 </script>
