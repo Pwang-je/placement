@@ -21,4 +21,5 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/). <br>
+[npm ERR! error: EPERM operation not permitted.](https://bobbyhadz.com/blog/npm-err-code-eperm-operation-not-permitted)
