@@ -10,7 +10,7 @@
   "dependencies": {
     "@revolist/vue3-datagrid": "^3.6.17",
     "axios": "^1.6.2",
-    
+    "i": "^0.3.7",
     "vue": "^3.2.13",
     "vue3-easy-data-table": "^1.5.47"
   },
